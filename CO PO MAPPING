@@ -1,0 +1,126 @@
+
+\addcontentsline{toc}{chapter}{Appendix B}
+\chapter*{Appendix B}
+
+\addcontentsline{toc}{section}{CO-PO AND CO-PSO MAPPING}
+\section*{CO-PO AND CO-PSO MAPPING}
+
+% \subsection{COURSE OUTCOMES}
+\begin{flushleft}
+\begin{table}[!hbt]
+\centering
+
+\begin{tabular}{ | l| p{12cm}|}
+  \hline
+  CO1& Identify academic documents from the literature which are related to her or his areas of interest (Cognitive knowledge level: Apply). \\
+  \hline
+  CO2 & Read and apprehend an academic document from the literature which is related to her/ his areas of interest (Cognitive knowledge level: Analyze).\\
+  \hline
+  CO3 & Prepare a presentation about an academic document (Cognitive knowledge level: Create). \\
+  \hline
+  CO4 & Give a presentation about an academic document (Cognitive knowledge level: Apply). \\
+  \hline
+  CO5 & Prepare a technical report (Cognitive knowledge level: Create). \\
+  \hline
+\end{tabular}
+\caption{Course outcomes}
+\label{tab:my-table}
+\end{table}
+
+\begin{table}[!hbt]
+\centering
+\resizebox{\columnwidth}{!}{%
+\begin{tabular}{|l|l|l|l|l|l|l|1|1|1|1|1|1|}
+\hline
+ & PO 1& PO 2 & PO 3 & PO 4 & PO 5 & PO 6 & PO 7 & P0 8 & PO 9 & PO 10 & PO 11 & PO 12\\ \hline
+CO1 & 2    & 2   & 1   & 1   & ~   & 2   & 1   & ~   & ~   & ~                                               & ~    & 3  \\ \hline
+CO2& 3    & 3   & 2   & 3   & ~   & 2   & 1   & ~   & ~   & ~                                               & ~    & 3                                                  \\ \hline 
+CO3& 3    & 2   & ~   & ~   & 3   & ~   & ~   & 1   & ~   & 2                                               & ~    & 3  \\ \hline 
+CO4 & 3    & ~   & ~   & ~   & 2   & ~   & ~   & 1   & ~   & 3                                               & ~    & 3                                               \\ \hline 
+
+CO5 & 3    & 3   & 3   & 3   & 2   & 2   & ~   & 2   & ~   & 3                                               & ~    & 3                                               \\ \hline 
+\end{tabular}}
+
+
+
+\caption{Mapping of course outcome for PO1-PO12.}
+\label{tab:my-table}
+\end{table}
+
+\begin{table}[!hbt]
+\centering
+\begin{tabular}{|l|l|l|l|l|l|l|}
+\hline
+& PSO 1 & PSO 2 & PSO 3 \\ \hline
+CO1                                            & 1    & ~    & 1     \\ \hline
+CO2                                               & 1    & ~    & 1      \\ \hline
+CO3 & 1    & ~    & 1 \\ \hline
+CO4 & 1    & ~    & 1 \\ \hline
+CO5& 1    & ~    & 1 \\ \hline
+
+\end{tabular}
+\caption{Mapping of course outcome for  PSO1-PSO3.}
+\label{tab:my-table}
+\end{table}
+\newpage
+\begin{longtable}{|p{2cm}|p{2cm}|p{10cm}|}
+    
+
+
+% \centering
+% \begin{adjustbox}{width=1\textwidth}
+% \resizebox{\columnwidth}{!}{%
+% \begin{tabular}{|p{2cm}|p{2cm}|p{10cm}|}
+
+\hline
+Mapping  & LOW/ MEDIUM/ HIGH  & Justification   \\
+\hline 
+CO1-PO1  & 2               & Students will study the fundamentals in any specific domain of computer science by identifying academic documents from the literature.                                                                \\ \hline
+CO1-PO2  & 2               & The students will be able to analyze a given complex problem by identifying related academic documents from the literature.                                                                           \\ \hline
+CO1-PO3  & 1               & The students will be able to develop and design solution to complex from related academic documents from the literature                                                                               \\ \hline
+CO1-PO4  & 1               & The students will be able to understand the methodologies in design of experiments and interpretation of data through identified academic literature.                                                 \\ \hline
+CO1-PO6  & 2               & The students will be able to understand needs of the society through identified academic literature.                                                                                                  \\ \hline
+CO1-PO7  & 1               & The students will be able to understand the environment and its sustainability through identified academic literature.                                                                                \\ \hline
+CO1-PO12 & 3               & The students will be able to correlate to life long learning through identified academic literature.                                                                                                  \\ \hline
+CO1-PSO1 & 1               & Students will be able to to identify, analyze and design solutions for complex engineering problems in multidisciplinary areas through identified academic literature.                               \\  \hline
+CO1-PSO3 & 1               & Students will have the ability to apply the fundamentals of computer science in competitive research through academic literature.                                                                    \\   \hline
+CO2-PO1  & 3               & Students will study the fundamentals in any specific domain of computer science by reading and apprehending an academic document from the literature.                                                 \\ \hline
+CO2-PO2  & 3               & The students will be able to analyze a given complex problem by reading and apprehending an academic document from the literature.                                                                    \\ \hline
+CO2-PO3  & 2               & The students will be able to develop and design solution to complex problems by reading and apprehending an academic document from the literature.                                                    \\ \hline
+CO2-PO4  & 3               & The students will be able to understand the methodologies in design of experiments and interpretation of data by reading and apprehending an academic document from the literature.                   \\ \hline
+CO2- PO6 & 2               & The students will be able to understand needs of the society by reading and apprehending an academic document from the literature.                                                                    \\ \hline
+CO2- PO7 & 1               & The students will be able to understand the environment and its sustainability by reading and apprehending an academic document from the literature.                                                  \\ \hline
+CO2-PO12 & 3               & The students will be able to correlate to life long learning by reading and apprehending an academic document from the literature                                                                     \\ \hline
+CO2-PSO1 & 1 & Students will be able to to identify, analyze and design solutions for complex engineering problems in multidisciplinary areas by reading and apprehending an academic document from the literature.\\ \hline
+CO2-PSO3 & 1               & Students will have the ability to apply the fundamentals of computer science in competitive research by reading and apprehending an academic document from the literature.                            \\ \hline
+CO3-PO1  & 3               & Students will study the fundamentals in any specific domain of computer science by preparing a presentation about an academic document.                                                               \\ \hline
+CO3-PO2  & 2               & Students will be able to analyze a given complex problem by preparing a presentation about an academic document.                                                                                      \\ \hline
+CO3-PO5  & 3               & Students will be able to familiarize the usage of a tool by preparing a presentation about an academic document.                                                                                      \\ \hline
+CO3-PO8  & 1               & Students will understand the principles of ethics while preparing a presentation about an academic document.                                                                                          \\ \hline
+CO3-PO10 & 2               & Students will develop communication skills while preparing a presentation about an academic document.                                                                                                 \\ \hline
+CO3-PO12 & 3               & Students will be able to correlate to life long learning while preparing a presentation about an academic document.                                                                                   \\ \hline
+CO3-PSO1 & 1               & Students will be able to to identify, analyze and design solutions for complex engineering problems in multidisciplinary areas while preparing a presentation about an academic document.             \\ \hline
+CO3-PSO3 & 1               & Students will have the ability to apply the fundamentals of computer science in competitive research while preparing a presentation about an academic document.                                       \\ \hline
+CO4-PO1  & 3               & Students will study the fundamentals in any specific domain of computer science by giving a presentation about an academic document.                                                                  \\ \hline
+CO4-PO5  & 2               & Students will be able to familiarize the usage of a tool by giving a presentation about an academic document.                                                                                         \\ \hline
+CO4-PO8  & 1               & Students will understand the principles of ethics while giving a presentation about an academic document.                                                                                             \\ \hline
+CO4-PO10 & 3               & Students will develop communication skills while giving a presentation about an academic document.                                                                                                    \\ \hline
+CO4-PO12 & 3               & Students will be able to correlate to life long learning while giving a presentation about an academic document.                                                                                      \\ \hline
+CO4-PSO1 & 1               & Students will be able to to identify, analyze and design solutions for complex engineering problems in multidisciplinary areas while giving a presentation about an academic document.                \\ \hline
+CO4-PSO3 & 1               & Students will have the ability to apply the fundamentals of computer science in competitive research while giving a presentation about an academic document.                                          \\ \hline
+CO5-PO1  & 3               & Students will study the fundamentals in any specific domain of computer science while preparing a technical report.                                                                                   \\ \hline
+CO5-PO2  & 3               & Students will be able to analyze a given complex problem while preparing a technical report.                                                                                                          \\ \hline
+CO5-PO3  & 3               & Students will be able to develop and design solution to complex problems while preparing a technical report.                                                                                          \\ \hline
+CO5-PO4  & 3               & Students will be able to understand the methodologies in design of experiments and interpretation of data while preparing a technical report.                                                         \\ \hline
+CO5-PO5  & 2               & Students will be able to familiarize the usage of a tool while preparing a technical report.                                                                                                          \\ \hline
+CO5-PO6  & 2               & Students will be able to connect to the needs of the society while preparing a technical report.                                                                                                      \\ \hline
+CO5-PO8  & 2               & Students will understand the principles of ethics while preparing a technical report.                                                                                                                 \\ \hline
+CO5-PO10 & 3               & Students will develop communication skills while preparing a technical report.                                                                                                                        \\ \hline
+CO5-PO12 & 3               & Students will be able to correlate to life long learning while preparing a technical report.                                                                                                          \\\hline
+CO5-PSO1 & 1               & Students will be able to to identify, analyze and design solutions for complex engineering problems in multidisciplinary areas while preparing a technical report                                     \\ \hline
+CO5-PSO3 & 1               & Students will have the ability to apply the fundamentals of computer science in competitive research while preparing a technical report                                                               \\ \hline
+                                                                                                                                                                                                  
+% \end{tabular}
+ % }
+ % \end{longtblr}
+\end{longtable}
